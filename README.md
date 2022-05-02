@@ -1,7 +1,7 @@
 
 
 👋 Hi there! I'm a data scientist, Jiseon Lee.
-I value the process of deriving insights based on data research and exploration.
+I value the process of deriving insights based on data research and exploration.#
 I like to create meaningful variables from existing data.
 I have perseverance to solve the problem situation.
 
