@@ -1,6 +1,6 @@
 
 
-You can contact me <img src="https://img.shields.io/badge/jiseon7229@naver.com-03C75A?style=flat-square&logo=jiseon7229@naver.com&logoColor=white"/>
+<img src="https://img.shields.io/badge/jiseon7229@naver.com-03C75A?style=flat-square&logo=jiseon7229@naver.com&logoColor=white"/>
 
 👋 Hi there! I'm a data scientist, Jiseon Lee.  
 I value the process of deriving insights based on data research and exploration.  
