@@ -6,4 +6,3 @@
 👋 Hi there! I'm Jiseon Lee.  
  
 ##### ✉ email [jiseon7229@naver.com](mailto:jiseon7229@naver.com)
-##### 🔳 notion [https://www.notion.so](https://www.notion.so/9742bdab09e8400bbe783646ac7cc539)
